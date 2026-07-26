@@ -99,9 +99,8 @@ I believe AI evolves every day, so I'm constantly learning new architectures, re
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: *Your LinkedIn URL*
-- 🌐 Portfolio: *Your Website (if available)*
-- 📧 Email: *Your Email*
+- 💼 LinkedIn: [*LinkedIn*](https://www.linkedin.com/in/ahmadtabsho/)
+- 📧 Email: tabshoahmad02@gamil.com
 
 ---
 
