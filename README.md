@@ -1,5 +1,3 @@
-# Hi there 👋, I'm Ahmad Tabsho
-
 ### AI Engineer | MSc Artificial Intelligence Student | Computer Vision & LLM Research
 
 I'm a Computer Engineer and MSc Artificial Intelligence student at the **University of Verona, Italy**. I enjoy building intelligent systems that combine **Computer Vision, Large Language Models, Retrieval-Augmented Generation (RAG), and Machine Learning** to solve real-world problems.
