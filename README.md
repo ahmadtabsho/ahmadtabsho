@@ -20,8 +20,6 @@ My interests span both research and engineering, with the long-term goal of cont
   - Retrieval-Augmented Generation (RAG)
   - LoRA & QLoRA Fine-tuning
   - Agentic AI Systems
-- 🌍 Originally from Syria, currently studying in Italy
-
 ---
 
 ## 💡 Areas of Interest
@@ -99,7 +97,7 @@ I believe AI evolves every day, so I'm constantly learning new architectures, re
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [*LinkedIn*](https://www.linkedin.com/in/ahmadtabsho/)
+- 💼 LinkedIn: [*ahmadtabsho*](https://www.linkedin.com/in/ahmadtabsho/)
 - 📧 Email: tabshoahmad02@gamil.com
 
 ---
